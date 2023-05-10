@@ -30,4 +30,4 @@ Discord ●
 
 Spotify ●
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31qj5wcex56tb5mun5sreo5x7cte&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31qj5wcex56tb5mun5sreo5x7cte&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31qj5wcex56tb5mun5sreo5x7cte&cover_image=true&theme=novatorem&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31qj5wcex56tb5mun5sreo5x7cte&redirect=true)
