@@ -17,4 +17,4 @@ I'm Charles, a 22 year old Developer from Pennsylvania, USA.
 - [Evident#0420](./) on Discord
 
 ## Stats
-[Evident's GitHub stats](https://github-readme-stats.vercel.app/api?username=Evidentsinger14&theme=midnight-purple&show_icons=true)
+![Evident's GitHub stats](https://github-readme-stats.vercel.app/api?username=Evidentsinger14&theme=midnight-purple&show_icons=true)
