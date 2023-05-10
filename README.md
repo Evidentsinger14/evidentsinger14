@@ -27,5 +27,5 @@ I'm Charles, a 22 year old Developer from Pennsylvania, USA.
 Discord
 [![Discord](https://lanyard.cnrad.dev/api/412070526081695744)](https://discord.com/users/412070526081695744)
 Spotify
-![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31qj5wcex56tb5mun5sreo5x7cte)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31qj5wcex56tb5mun5sreo5x7cte&cover_image=true&theme=Novatorem &show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
