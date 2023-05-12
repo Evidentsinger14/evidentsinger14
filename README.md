@@ -1,22 +1,15 @@
-<div>
-    <h1 align="center">
+<h1 align="center">
   <img src="https://raw.githubusercontent.com/Evidentsinger14/evidentsinger14/main/Evidentsinger14.svg" alt="Evidentsinger14" />
 </h1>
 
-<h2> Hey! 👋</h2>
-<h3>I'm Charles, a 22 year old Developer from Pennsylvania, USA.</h3>
+## Hey! 👋
+I'm Charles, a 22 year old Developer from Pennsylvania, USA.
 
-<h2>Contributions</h2>
-<ul>
-    <li>
-        🥔 Helper @ [M.O.S.S](https://github.com/MinecraftOSS) & [LuckPerms](https://github.com/LuckPerms)
-    </li>
-    <li>
-        🛠️ Triage @ [EssentialsX](https://github.com/EssentialsX/)
-    </li>
-</ul>
+## Contributions
+- 🥔 Helper @ [M.O.S.S](https://github.com/MinecraftOSS) & [LuckPerms](https://github.com/LuckPerms)
+- 🛠️ Triage @ [EssentialsX](https://github.com/EssentialsX/)
 
-<h2>Used Software</h2>
+## Used software
 <div align="center">
 	<!-- IDES -->
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" alt="InteliJ" title="InteliJ" /></code>
@@ -38,17 +31,17 @@
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" title="Docker" /></code>
 </div>
 
-<h2>Contact</h2>
+## Contact
 <div>
      <a href="https://discord.com/users/412070526081695744"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Discord.svg" title="Discord" style="width:50px;height:50px;"></a>
      <a href="https://twitter.com/Evidentsinger14"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Twitter.svg" title="Twitter" style="width:50px;height:50px;"></a>
 </div>
 
-<h2>Stats</h2>
+## Stats
 ![Evident's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=Evidentsinger14&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=9b51c9&ring=9b51c9&fire=9b51c9&currStreakNum=9b51c9&sideNums=9b51c9&currStreakLabel=949698&sideLabels=949698&dates=FFFFFF)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Evidentsinger14&count_private=true&theme=dark&show_icons=true&hide_title=true&icon_color=9b51c9&bg_color=0d1117&hide_border=true)
 
-<h2>Stats</h2>
+## Extras
 Discord ●
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/412070526081695744)](https://discord.com/users/412070526081695744)
@@ -56,5 +49,3 @@ Discord ●
 Spotify ●
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31qj5wcex56tb5mun5sreo5x7cte&cover_image=true&theme=novatorem&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31qj5wcex56tb5mun5sreo5x7cte&redirect=true)
-
-</div>
