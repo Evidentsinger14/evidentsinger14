@@ -34,7 +34,6 @@ I'm Charles, a 22 year old Developer from Pennsylvania, USA.
 ## Stats
 ![Evident's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=Evidentsinger14&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=9b51c9&ring=9b51c9&fire=9b51c9&currStreakNum=9b51c9&sideNums=9b51c9&currStreakLabel=949698&sideLabels=949698&dates=FFFFFF)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Evidentsinger14&count_private=true&theme=dark&show_icons=true&hide_title=true&icon_color=9b51c9&bg_color=0d1117&hide_border=true)
-</div>
 
 ## Extras
 Discord ●
@@ -44,3 +43,4 @@ Discord ●
 Spotify ●
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31qj5wcex56tb5mun5sreo5x7cte&cover_image=true&theme=novatorem&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31qj5wcex56tb5mun5sreo5x7cte&redirect=true)
+</div>
