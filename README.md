@@ -1,4 +1,5 @@
-<h1 align="center">
+<div align="center">
+<h1>
   <img src="https://raw.githubusercontent.com/Evidentsinger14/evidentsinger14/master/Evidentsinger14.svg" alt="Evidentsinger14" />
 </h1>
 
@@ -10,7 +11,7 @@ I'm Charles, a 22 year old Developer from Pennsylvania, USA.
 - 🛠️ Triage @ [EssentialsX](https://github.com/EssentialsX/)
 
 ## Used software
-<div align="center">
+<div>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" alt="InteliJ" title="InteliJ" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192108893-b1eed3c7-b2c4-4e1c-9e9f-c7e83637b33d.png" alt="WebStorm" title="WebStorm" /></code>
@@ -27,13 +28,13 @@ I'm Charles, a 22 year old Developer from Pennsylvania, USA.
 </div>
 
 ## Contact
-- [@Evidentsinger14](https://twitter.com/Evidentsinger14) on Twitter
-- [Evident#0420](https://discord.com/users/412070526081695744) on Discord
+[@Evidentsinger14](https://twitter.com/Evidentsinger14) on Twitter
+[Evident#0420](https://discord.com/users/412070526081695744) on Discord
 
 ## Stats
 ![Evident's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=Evidentsinger14&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=9b51c9&ring=9b51c9&fire=9b51c9&currStreakNum=9b51c9&sideNums=9b51c9&currStreakLabel=949698&sideLabels=949698&dates=FFFFFF)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Evidentsinger14&count_private=true&theme=dark&show_icons=true&hide_title=true&icon_color=9b51c9&bg_color=0d1117&hide_border=true)
-
+</div>
 
 ## Extras
 Discord ●
