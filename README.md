@@ -27,7 +27,7 @@ I'm Charles, a 22 year old Developer from Pennsylvania, USA.
 </div>
 
 ## Contact
-<div align="center"
+<div>
      <a href="https://discord.com/users/412070526081695744"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Discord.svg" style="width:50px;height:50px;"></a>
      <a href="https://twitter.com/Evidentsinger14"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Twitter.svg" style="width:50px;height:50px;"></a>
 </div>
