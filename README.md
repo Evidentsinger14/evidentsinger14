@@ -1,5 +1,4 @@
-<div align="center">
-<h1>
+<h1 align="center">
   <img src="https://raw.githubusercontent.com/Evidentsinger14/evidentsinger14/master/Evidentsinger14.svg" alt="Evidentsinger14" />
 </h1>
 
@@ -11,7 +10,7 @@ I'm Charles, a 22 year old Developer from Pennsylvania, USA.
 - 🛠️ Triage @ [EssentialsX](https://github.com/EssentialsX/)
 
 ## Used software
-<div>
+<div align="center">
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" alt="InteliJ" title="InteliJ" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192108893-b1eed3c7-b2c4-4e1c-9e9f-c7e83637b33d.png" alt="WebStorm" title="WebStorm" /></code>
@@ -43,4 +42,3 @@ Discord ●
 Spotify ●
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31qj5wcex56tb5mun5sreo5x7cte&cover_image=true&theme=novatorem&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31qj5wcex56tb5mun5sreo5x7cte&redirect=true)
-</div>
