@@ -27,8 +27,10 @@ I'm Charles, a 22 year old Developer from Pennsylvania, USA.
 </div>
 
 ## Contact
-[@Evidentsinger14](https://twitter.com/Evidentsinger14) on Twitter
-[Evident#0420](https://discord.com/users/412070526081695744) on Discord
+<div align="center"
+     <code><img height="50" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Twitter.svg" alt="Twitter" title="Twitter" /></code>
+     <code><a href="https://discord.com/users/412070526081695744"><img height="50" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Discord.svg" alt="Discord" title="Discord" /></a></code>
+</div>
 
 ## Stats
 ![Evident's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=Evidentsinger14&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=9b51c9&ring=9b51c9&fire=9b51c9&currStreakNum=9b51c9&sideNums=9b51c9&currStreakLabel=949698&sideLabels=949698&dates=FFFFFF)
