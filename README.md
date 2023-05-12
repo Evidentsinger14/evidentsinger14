@@ -28,8 +28,8 @@ I'm Charles, a 22 year old Developer from Pennsylvania, USA.
 
 ## Contact
 <div align="center"
-     <code><a href="https://twitter.com/Evidentsinger14"><img height="50" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Twitter.svg" alt="Twitter" title="Twitter" /></a></code>
-     <code><a href="https://discord.com/users/412070526081695744"><img height="50" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Discord.svg" alt="Discord" title="Discord" /></a></code>
+     <a href="https://twitter.com/Evidentsinger14"><img height="50" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Twitter.svg" alt="Twitter" title="Twitter" /></a>
+     <a href="https://discord.com/users/412070526081695744"><img height="50" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Discord.svg" alt="Discord" title="Discord" /></a></code>
 </div>
 
 ## Stats
