@@ -3,7 +3,7 @@
 </h1>
 
 ## Hey! 👋
-I'm Charles, a 22 year old Developer from Pennsylvania, USA.
+I'm Charles, a 23 year old Developer from Pennsylvania, USA.
 
 ## Contributions
 - 🥔 Helper @ [M.O.S.S](https://github.com/MinecraftOSS) & [LuckPerms](https://github.com/LuckPerms)
