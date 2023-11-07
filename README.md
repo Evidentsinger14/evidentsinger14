@@ -6,8 +6,9 @@
 I'm Charles, a 23 year old Developer from Pennsylvania, USA.
 
 ## Contributions
-- 🥔 Helper @ [M.O.S.S](https://github.com/MinecraftOSS) & [LuckPerms](https://github.com/LuckPerms)
-- 🛠️ Triage @ [EssentialsX](https://github.com/EssentialsX/)
+- 🥔 Helper @ [M.O.S.S](https://github.com/MinecraftOSS)
+- 🧪 Triage @ [EssentialsX](https://github.com/EssentialsX/)
+- 🛠️ Moderator @ [LuckPerms](https://github.com/LuckPerms)
 
 ## Used software
 <div align="center">
