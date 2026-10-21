@@ -1,52 +1,80 @@
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/Evidentsinger14/evidentsinger14/main/Evidentsinger14.svg" alt="Evidentsinger14" />
-</h1>
-
-## Hey! 👋
-I'm Charles, a 25 year old Developer from Pennsylvania, USA.
-
-## Contributions
-- 🥔 Helper @ [M.O.S.S](https://github.com/MinecraftOSS)
-- 🧪 Triage @ [EssentialsX](https://github.com/EssentialsX/)
-- 🛠️ Moderator @ [LuckPerms](https://github.com/LuckPerms)
-
-## Used software
 <div align="center">
-	<!-- IDES -->
-	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" alt="InteliJ" title="InteliJ" /></code>
-	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192108893-b1eed3c7-b2c4-4e1c-9e9f-c7e83637b33d.png" alt="WebStorm" title="WebStorm" /></code>
-	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code" /></code>
-	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/190887576-6653f877-8439-4521-82f3-403086ead892.png" alt="Sublime Text" title="Sublime Text" /></code>
-	<!-- Coding Langs -->
-	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML" /></code>
-	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS" /></code>
-	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript" /></code>
-	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js" /></code>
-	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java" /></code>
-	<!-- OS' -->
-	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" alt="Windows" title="Windows" /></code>
-	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" alt="Ubuntu" title="Ubuntu" /></code>
-	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/186884159-4b5e122b-95de-4a32-b10b-7f6fdffa4c5a.png" alt="Linux Mint" title="Linux Mint" /></code>
-	<!-- Misc Software -->
-	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub" /></code>
-	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" title="Docker" /></code>
+
+<img src="https://raw.githubusercontent.com/Evidentsinger14/evidentsinger14/main/Evidentsinger14.svg" alt="Evidentsinger14" />
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=9B51C9&center=true&vCenter=true&width=520&lines=Hey!+I'm+Charles+%F0%9F%91%8B;Developer+from+Pennsylvania%2C+USA;Java+%E2%80%A2+JavaScript+%E2%80%A2+Node.js;Helping+out+in+the+Minecraft+OSS+scene" alt="Typing intro" /></a>
+
+<p>
+  <a href="https://ev1dent.dev"><img src="https://img.shields.io/badge/ev1dent.dev-9b51c9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+  <a href="https://discord.com/users/412070526081695744"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://x.com/Evidentsinger14"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Evidentsinger14&style=for-the-badge&color=9b51c9&label=PROFILE+VIEWS" alt="Profile views" />
+</p>
+
 </div>
 
-## Contact
-<div>
-     <a href="https://discord.com/users/412070526081695744"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Discord.svg" title="Discord" style="width:50px;height:50px;"></a>
-     <a href="https://twitter.com/Evidentsinger14"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Twitter.svg" title="Twitter" style="width:50px;height:50px;"></a>
+---
+
+### 🧑‍💻 About me
+
+I'm **Charles**, a <!--AGE-->25<!--/AGE--> year old developer from Pennsylvania, USA. Most of my time goes into Java and the JavaScript/Node.js ecosystem, and into helping keep some of the Minecraft server community's biggest open-source projects running smoothly.
+
+### 🤝 Where you'll find me
+
+| | Project | Role |
+|:-:|:--|:--|
+| <img src="https://avatars.githubusercontent.com/u/37986073?s=40&v=4" width="28" /> | [**M.O.S.S**](https://github.com/MinecraftOSS) | 🥔 Helper |
+| <img src="https://avatars.githubusercontent.com/u/34553309?s=40&v=4" width="28" /> | [**EssentialsX**](https://github.com/EssentialsX) | 🧪 Triage |
+| <img src="https://avatars.githubusercontent.com/u/22246894?s=40&v=4" width="28" /> | [**LuckPerms**](https://github.com/LuckPerms) | 🛠️ Moderator |
+
+### 🧰 Toolbox
+
+<p align="center">
+  <b>Languages</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=java,js,nodejs,html,css&theme=dark" alt="Languages" />
+</p>
+
+<p align="center">
+  <b>Editors</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=idea,webstorm,vscode,sublime&theme=dark" alt="Editors" />
+</p>
+
+<p align="center">
+  <b>Platforms & Tools</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=windows,ubuntu,linux,git,github,docker&theme=dark" alt="Platforms and tools" />
+</p>
+
+### 📊 Stats
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Evidentsinger14&count_private=true&show_icons=true&hide_title=false&theme=transparent&title_color=9b51c9&icon_color=9b51c9&text_color=c9d1d9&hide_border=true&rank_icon=github" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Evidentsinger14&layout=compact&theme=transparent&title_color=9b51c9&text_color=c9d1d9&hide_border=true&langs_count=6" alt="Top languages" />
 </div>
 
-## Stats
-![Evident's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=Evidentsinger14&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=9b51c9&ring=9b51c9&fire=9b51c9&currStreakNum=9b51c9&sideNums=9b51c9&currStreakLabel=949698&sideLabels=949698&dates=FFFFFF)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Evidentsinger14&count_private=true&theme=dark&show_icons=true&hide_title=true&icon_color=9b51c9&bg_color=0d1117&hide_border=true)
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=Evidentsinger14&theme=transparent&hide_border=true&stroke=9b51c9&ring=9b51c9&fire=9b51c9&currStreakNum=9b51c9&sideNums=9b51c9&currStreakLabel=949698&sideLabels=949698&dates=8b949e&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub streak" />
+</div>
 
-## Extras
-Discord ●
+<div align="center">
+  <img src="https://fabianocouto-activity-graph.vercel.app/graph/?username=Evidentsinger14&bg_color=00000000&color=c9d1d9&line=9b51c9&point=c9d1d9&area=true&area_color=9b51c9&hide_border=true&custom_title=Contribution%20activity" alt="Contribution graph" />
+</div>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/412070526081695744)](https://discord.com/users/412070526081695744)
+### 🎧 Right now
 
-Spotify ●
+<div align="center">
+  <a href="https://discord.com/users/412070526081695744">
+    <img src="https://lanyard.cnrad.dev/api/412070526081695744?theme=dark&bg=0d1117&borderRadius=10px&animated=true&idleMessage=Probably%20writing%20Java" alt="Discord presence" />
+  </a>
+  <br/><br/>
+ <p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31qj5wcex56tb5mun5sreo5x7cte&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false">
+  </a>
+</p>
+</div>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31qj5wcex56tb5mun5sreo5x7cte&cover_image=true&theme=novatorem&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31qj5wcex56tb5mun5sreo5x7cte&redirect=true)
+---
+
+<div align="center">
+  <sub>Thanks for stopping by 💜</sub>
+</div>
