@@ -17,7 +17,7 @@
 
 ### 🧑‍💻 About me
 
-I'm **Charles**, a <!--AGE-->25<!--/AGE--> year old developer from Pennsylvania, USA. Most of my time goes into Java and the JavaScript/Node.js ecosystem, and into helping keep some of the Minecraft server community's biggest open-source projects running smoothly.
+I'm **Charles**, a <!--AGE-->26<!--/AGE--> year old developer from Pennsylvania, USA. Most of my time goes into Java and the JavaScript/Node.js ecosystem, and into helping keep some of the Minecraft server community's biggest open-source projects running smoothly.
 
 ### 🤝 Where you'll find me
 
