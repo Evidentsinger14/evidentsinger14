@@ -1,0 +1,45 @@
+name: Update age in README
+
+on:
+  schedule:
+    - cron: "17 5 * * *"   # daily at 05:17 UTC
+  workflow_dispatch:        # lets you run it manually from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  update-age:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Calculate age and update README
+        env:
+          BIRTHDATE: ${{ secrets.BIRTHDATE }}   # format: YYYY-MM-DD
+        run: |
+          python3 - <<'EOF'
+          import os, re, datetime
+          from zoneinfo import ZoneInfo
+
+          b = datetime.date.fromisoformat(os.environ["BIRTHDATE"].strip())
+          today = datetime.datetime.now(ZoneInfo("America/New_York")).date()
+          age = today.year - b.year - ((today.month, today.day) < (b.month, b.day))
+
+          with open("README.md", encoding="utf-8") as f:
+              text = f.read()
+          new = re.sub(r"<!--AGE-->.*?<!--/AGE-->", f"<!--AGE-->{age}<!--/AGE-->", text)
+          if new != text:
+              with open("README.md", "w", encoding="utf-8") as f:
+                  f.write(new)
+          print(f"Age: {age}")
+          EOF
+
+      - name: Commit if changed
+        run: |
+          if ! git diff --quiet README.md; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
+            git commit -am "chore: update age"
+            git push
+          fi
